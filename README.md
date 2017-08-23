@@ -5,7 +5,7 @@ drawlogo86 can live in your storage's boot sector and show a (not so) fancy
 Oh and let's not forget, drawlogo86 is for 80286+ processors
 ## Screenshot
 A screenshot of it running in QEMU with my ugly picture!
-![drawlogo86 running in QEMU](http://path/to/img.png "drawlogo86 running in QEMU")
+![drawlogo86 running in QEMU](https://github.com/farooqkz/drawlogo86/raw/master/screenshot.png "drawlogo86 running in QEMU")
 ## Usage
 **WARNING! There is absolutely NO WARRANTY and there is risk of losing data,
 USE AT YOUR OWN RISK!**
