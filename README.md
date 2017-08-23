@@ -26,6 +26,6 @@ AT YOUR OWN RISK.
 ## Licence
 This is free software under MIT/X11 and comes WITHOUT ANY WARRANTY, see LICENSE
 for more details.
-## Bug Report/Questings/Contribute/etc
+## Bug Report/Questions/Contribute/etc
 Use Github(Issues for Bug Report and Questions and Pull Requests for
 Contributing) or email me.
