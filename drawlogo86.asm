@@ -1,5 +1,5 @@
 ;
-; Copyright (C) 2017 Farooq Karimi Zadeh <farooghkarimizadeh at gmail dot com>
+; Copyright (C) 2017-2018 Farooq Karimi Zadeh <farooghkarimizadeh at gmail dot com>
 ;
 ; Permission is hereby granted, free of charge, to any person obtaining a copy
 ; of this software and associated documentation files (the "Software"), to deal
