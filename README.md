@@ -1,4 +1,5 @@
 # drawlogo86
+## Moved to https://notabug.org/farooqkz/drawlogo86
 drawlogo86 can live in your storage's boot sector and show a (not so) fancy
 16x16 picture when you boot it, nice for data (micro/mini)SDs, flash memories, floppies. similar to `mkfs.fat`'s `-m` but shows a small image instead of a text message.
 
